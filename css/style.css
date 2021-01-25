@@ -34,17 +34,13 @@ img {
 
 .container-card {
   background: #fff;
-  margin: 110px auto;
   width: 350px;
   height: 385px;
   border-radius: 15px;
-}
-
-@media (max-width: 375px) {
-  .container-card {
-    margin-top: 150px;
-    margin-left: 13px;
-  }
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .container-card:hover {
@@ -138,6 +134,12 @@ img {
   text-align: center;
 }
 
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
 .attribution {
   color: hsl(229, 23%, 23%);
   font-size: 0.825em;
@@ -149,9 +151,7 @@ img {
 
 @media (max-width: 375px) {
   .attribution {
-    width: 250px;
     word-wrap: break-word;
-    margin: 0 auto;
     line-height: 1.4em;
     letter-spacing: 0.05em;
   }
