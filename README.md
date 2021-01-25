@@ -22,3 +22,5 @@ Construir o componente de cartão de perfil o mais parecido possível com o desi
   <li>Desktop: 1440px</li>
   <li>Nível: Iniciante</li>
 </ul>
+
+#### Projeto ativo: <a href="https://profile-card-component-main.marimunari.vercel.app/">Profile Card Component</a>
