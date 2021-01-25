@@ -20,5 +20,5 @@ Construir o componente de cartão de perfil o mais parecido possível com o desi
 <ul>
   <li>Mobile: 375px</li>
   <li>Desktop: 1440px</li>
-  <li>Nível: Júnior</li>
+  <li>Nível: Iniciante</li>
 </ul>
